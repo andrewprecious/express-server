@@ -1,0 +1,34 @@
+1. Database: A database refers to the collection of datas that is electronically stored in a computer.
+
+2. We have two types of database which are:
+- Relational-database
+- Non Relational-database
+
+-- Relational-database: This refers to the collection and storing of data in a table which consist of rows and columns eg
+S/N    |         Names        |          Email              |          Password
+ 1.         Precious Andrew       preciousand45@gmail.com           Precious345
+ 2.         Gabriel Jackson       Gabjack345@gmail.com              Jack456
+ 3.         Favour Benny          bennyfave879@gmail.com            Favour678
+
+
+-- Non Relational-database: This is the collection of data in a seperate form (document) it is not stored in a table eg
+===============================Users====================================
+{
+Name: 'Precious Andrew'
+Email: 'preciousand45@gmail.com'
+Password: 'Precious345'
+}
+
+{
+Names: 'Gabriel Jackson'
+Email: 'preciousand45@gmail.com'
+Password: 'Jack456'
+}
+
+{
+Names: 'Favour Benny'
+Email:  'bennyfave879@gmail.com'
+Password: 'Favour678'
+}
+
+3. []
